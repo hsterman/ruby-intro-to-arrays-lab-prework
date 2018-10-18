@@ -8,9 +8,9 @@ def array_with_two_elements(object, object)
   return array
 end
 
-def first_element(array)
+def first_element(array, element)
   array = []
-  return first_element
+  return element
 end
 
 def last_element_with_array_methods
